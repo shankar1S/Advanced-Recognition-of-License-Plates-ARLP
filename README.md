@@ -1,0 +1,1 @@
+This project, developed for the IEEE Envision 2024 competition, involves the creation of an Automated License Plate Recognition (ALPR) system. For object detection, we utilized the YOLO (You Only Look Once) algorithm to efficiently identify and recognize license plates.
